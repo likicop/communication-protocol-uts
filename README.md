@@ -3,6 +3,7 @@
 **Nama:** RIZKY DWI SAPUTRA  
 **NIM:** 25120500017  
 **Case:** REST API CRUD pada endpoint `/api/users` dan `/api/orders`
+**GITHUB:** https://github.com/likicop/communication-protocol-uts
 
 ## Ringkasan
 Repository ini berisi evidence praktikum UTS Communication Protocol yang menguji pola request-response pada REST API.
